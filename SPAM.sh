@@ -9,7 +9,7 @@ clear
 echo "\033[32;1m""___________________________________________________________"
 toilet -f slant --gay "SPAM"
 echo "\033[32;1m""___________________________________________________________"
-echo "\033[32;1m""AUTHOR  : PS1K0P4T                               "
+echo "\033[32;1m""AUTHOR  : GUS10N                               "
 echo "\033[32;1m""FB      : Moreno ID                            "
 echo "\033[32;1m""GITHUB  : https://github.com/Moreno-ID            "
 echo "\033[32;1m""TEAM    : B0C4H-C0D1N6                            "
@@ -147,7 +147,7 @@ if
 [ $mrrm = 81 ] || [ $mrrm = 81 ]
 then
 clear
-toilet -f slant --gay "LiteSpam"
+toilet -f slant --gay "SPAM"
 echo "\033[34;1mContact:""\033[37;1m https://fb.me/IrsyadMaulana81"
 sleep 1
 echo "\033[35;1mPemograman:""\033[36;1m Python"
