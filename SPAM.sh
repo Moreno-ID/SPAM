@@ -7,18 +7,18 @@ apt install ./smsid_1.1_all.deb
 clear
 
 echo "\033[32;1m""___________________________________________________________"
-toilet -f slant --gay "SPAM"
+figlet -f slant "SPAM" |lolcat
 echo "\033[32;1m""___________________________________________________________"
-echo "\033[32;1m""AUTHOR  : 3RR0R                              "
+echo "\033[32;1m""AUTHOR  : Mr.MOC                              "
 echo "\033[32;1m""FB      : Moreno ID                            "
 echo "\033[32;1m""GITHUB  : https://github.com/Moreno-ID            "
 echo "\033[32;1m""___________________________________________________________"
-toilet -f slant --gay "SPAM"
+figlet -f slant"SPAM" |lolcat
 echo "\033[32;1m""___________________________________________________________"
 sleep 1
 echo "\033[33;1m Macam-macam tool untuk spam"
 sleep 1
-echo "\033[36;1m★""\033[34;1mCyber Indo""\033[36;1m★"
+echo "\033[36;1m★""\033[34;1m Mr.MOC""\033[36;1m★"
 sleep 1
 echo "\033[32;1m Spam Yang Tersedia :"
 echo "\033[35;1m1.""\033[36;1mBukalapak"
@@ -147,14 +147,12 @@ if
 then
 clear
 toilet -f slant --gay "SPAM"
-echo "\033[34;1mContact:""\033[37;1m https://fb.me/IrsyadMaulana81"
+echo "\033[34;1mContact:""\033[37;1m https://fb.me/Moreno.ID"
 sleep 1
-echo "\033[35;1mPemograman:""\033[36;1m Python"
-echo "\033[33;1mKarya: PS1K0P4T"
+echo "\033[35;1mPemograman:""\033[36;1m Python,Bash"
+echo "\033[33;1mKarya: Mr.MOC"
 sleep 1
 echo "\033[32;1mVersi: v1"
-sleep 1
-echo "\033[36;1mTeam: B0C4H-C0D1N6"
 sleep 1
 echo "\033[35;1m Spesial Thanks To: "
 echo "\033[36;1m"
@@ -162,7 +160,6 @@ echo "Nimrakmil"
 echo "anton"
 echo "Buyut"
 sleep 1
-echo "And All Member B0C4H-C0D1N6"
 echo "\033[30;1m tunggu 8 detik"
 sleep 8
 sh LITESPAM.sh
